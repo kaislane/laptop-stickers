@@ -73,6 +73,7 @@ function draw() {
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
+  background(233, 85, 45);
 }
 
 // Detecto cuándo se presiona el ratón;
